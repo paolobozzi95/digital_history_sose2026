@@ -1,1 +1,11 @@
 .env
+*.txt
+*.ipynb
+_temp_extracted_images/
+*.zip
+Shared_folder/
+*.json
+
+
+!Class_25_06_2026_NER_with_API.ipynb
+!Class_25_06_2026_OCR_with_API.ipynb
